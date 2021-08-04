@@ -1,6 +1,22 @@
 {
   "projects": [
     {
+		"id":"demo",
+		"name":"Demo"
+	},
+	{
+		"id":"demo2",
+		"name":"Demo 2"
+	},
+	{
+		"id":"demo3",
+		"name":"Demo 3"
+	},
+	{
+		"id":"demo4",
+		"name":"Demo 4"
+	},
+	{
       "id": "Duplex",
       "name": "Duplex"
     },

@@ -1,10 +1,10 @@
 {
-    "id": "Duplex_A_20110907",
-    "name": "Duplex_A_20110907",
+    "id": "demo",
+    "name": "demo",
     "models": [
         {
             "id": "design",
-            "name": "Duplex_A Updated Design"
+            "name": "Demo"
         }
     ],
     "viewerConfigs": {
