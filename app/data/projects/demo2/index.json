@@ -1,0 +1,23 @@
+{
+    "id": "Duplex_A_20110907_optimized",
+    "name": "Duplex_A_20110907_optimized",
+    "models": [
+        {
+            "id": "design",
+            "name": "Duplex_A Updated Design"
+        }
+    ],
+    "viewerConfigs": {
+    },
+    "viewerContent": {
+        "modelsLoaded": [
+            "design"
+        ]
+    },
+    "viewerState": {
+        "tabOpen": "classes",
+        "expandObjectsTree": 1,
+        "expandClassesTree": 1,
+        "expandStoreysTree": 1
+    }
+}
