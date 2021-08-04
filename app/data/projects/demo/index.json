@@ -5,18 +5,6 @@
         {
             "id": "design",
             "name": "Demo"
-        },
-		{
-            "id": "design2",
-            "name": "Demo"
-        },
-		{
-            "id": "design3",
-            "name": "Demo"
-        },
-		{
-            "id": "design4",
-            "name": "Demo"
         }
     ],
     "viewerConfigs": {
