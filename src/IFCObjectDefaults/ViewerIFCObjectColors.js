@@ -159,12 +159,16 @@ const ViewerIFCObjectColors = {
         priority: 6
     },
     IfcSpace: {
+		visible: true,
+        pickable: true,
         colorize: [0.137255, 0.403922, 0.870588],
         opacity: 0.5,
         priority: 6
     },
 
     IfcWindow: {
+		visible: true,
+        pickable: true,
         colorize: [0.137255, 0.403922, 0.870588],
         opacity: 0.4,
         priority: 6 // FIXME: transparent objects need to be last in order to avoid strange wireframe effect

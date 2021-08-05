@@ -10,17 +10,16 @@
  * @type {{String:Object}}
  */
 const ModelIFCObjectColors = {
-    IfcSpace: {
-        opacity: 0.3
+    
+	IfcSpace: {
+        visible: true,
+        pickable: true,
+        opacity: 0.2
     },
-    IfcWindow: { // Some IFC models have opaque windows
-        opacity: 0.4
-    },
-    IfcOpeningElement: { // These tend to obscure windows
-        opacity: 0.3
-    },
-    IfcPlate: { // These sometimes obscure windows
-        opacity: 0.3
+    IfcWindow: {
+        visible: true,
+        pickable: true,
+        opacity: 0.5
     }
 };
 
